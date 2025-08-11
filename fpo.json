@@ -1,0 +1,799 @@
+[
+  {
+    "name": "Catrina Allen #44184",
+    "location": "Sioux Falls, South Dakota, United States",
+    "Member Since": "2010",
+    "Rating": "959",
+    "Wins": "181",
+    "Earnings": "$373,466.70"
+  },
+  {
+    "name": "Vanessa Van Dyken #62325",
+    "location": "Poway, California, United States",
+    "Member Since": "2013",
+    "Rating": "939",
+    "Wins": "21",
+    "Earnings": "$50,066.41"
+  },
+  {
+    "name": "Kelley Foster #152191",
+    "location": "Birmingham, Alabama, United States",
+    "Member Since": "2020",
+    "Rating": "921",
+    "Wins": "27",
+    "Earnings": "$6,577.00"
+  },
+  {
+    "name": "Keiti Tätte #94085",
+    "location": "Tartu, Tartumaa, Estonia",
+    "Member Since": "2017",
+    "Rating": "953",
+    "Wins": "33",
+    "Earnings": "$33,546.38"
+  },
+  {
+    "name": "Taylor Chocek #189702",
+    "location": "Eugene, Oregon, United States",
+    "Member Since": "2021",
+    "Rating": "934",
+    "Wins": "11",
+    "Earnings": "$9,615.00"
+  },
+  {
+    "name": "Leah Tsinajinnie #139109",
+    "location": "Atlanta, Georgia, United States",
+    "Member Since": "2020",
+    "Rating": "910",
+    "Wins": "31",
+    "Earnings": "$15,809.00"
+  },
+  {
+    "name": "Violet Main #104314",
+    "location": "San Luis Obispo, California, United States",
+    "Member Since": "2018",
+    "Rating": "940",
+    "Wins": "12",
+    "Earnings": "$10,187.00"
+  },
+  {
+    "name": "Missy Gannon #85942",
+    "location": "Beacon, New York, United States",
+    "Member Since": "2016",
+    "Rating": "987",
+    "Wins": "48",
+    "Earnings": "$376,577.00"
+  },
+  {
+    "name": "Hannah Lengel #131583",
+    "location": "Winona Lake, Indiana, United States",
+    "Member Since": "2020",
+    "Rating": "941",
+    "Wins": "24",
+    "Earnings": "$925.00"
+  },
+  {
+    "name": "Jessica Weese #50656",
+    "location": "Grass Valley, California, United States",
+    "Member Since": "2011",
+    "Rating": "945",
+    "Wins": "73",
+    "Earnings": "$156,244.75"
+  },
+  {
+    "name": "Amanda Lennartsson #155026",
+    "location": "Forshaga, Sweden",
+    "Member Since": "2020",
+    "Rating": "906",
+    "Wins": "8",
+    "Earnings": "$7,397.00"
+  },
+  {
+    "name": "Paige Pierce #29190",
+    "location": "Pensacola, Florida, United States",
+    "Member Since": "2006",
+    "Rating": "971",
+    "Wins": "154",
+    "Earnings": "$431,225.64"
+  },
+  {
+    "name": "Stacie Rawnsley #122208",
+    "location": "Fishers, Indiana, United States",
+    "Member Since": "2019",
+    "Rating": "938",
+    "Wins": "20",
+    "Earnings": "$42,140.00"
+  },
+  {
+    "name": "Jenni Karppinen #110168",
+    "location": "Turku, Finland",
+    "Member Since": "2018",
+    "Rating": "925",
+    "Wins": "10",
+    "Earnings": "$19,470.00"
+  },
+  {
+    "name": "Anniken Kristiansen Steen #109996",
+    "location": "Hamar, Norway",
+    "Member Since": "2018",
+    "Rating": "963",
+    "Wins": "30",
+    "Earnings": "$60,576.90"
+  },
+  {
+    "name": "Kristi Unt #116694",
+    "location": "Tallinn / Harjumaa, Harjumaa, Estonia",
+    "Member Since": "2019",
+    "Rating": "933",
+    "Wins": "15",
+    "Earnings": "$12,918.00"
+  },
+  {
+    "name": "Lykke Lorentzen #99441",
+    "location": "Austin, Texas, United States",
+    "Member Since": "2017",
+    "Rating": "944",
+    "Wins": "34",
+    "Earnings": "$47,193.94"
+  },
+  {
+    "name": "Sonja Laine #96090",
+    "location": "Kuopio, Finland",
+    "Member Since": "2017",
+    "Rating": "903",
+    "Wins": "19",
+    "Earnings": "$3,628.00"
+  },
+  {
+    "name": "Henna Blomroos #59227",
+    "location": "Rauma, Finland",
+    "Member Since": "2013",
+    "Rating": "969",
+    "Wins": "38",
+    "Earnings": "$128,597.06"
+  },
+  {
+    "name": "Addison Woodard #161918",
+    "location": "Genoa, Illinois, United States",
+    "Member Since": "2021",
+    "Rating": "927",
+    "Wins": "13",
+    "Earnings": "$1,025.00"
+  },
+  {
+    "name": "Cynthia Ricciotti #75029",
+    "location": "Columbia, Missouri, United States",
+    "Member Since": "2015",
+    "Rating": "929",
+    "Wins": "20",
+    "Earnings": "$19,369.00"
+  },
+  {
+    "name": "Maria Oliva #63257",
+    "location": "Rowlett, Texas, United States",
+    "Member Since": "2014",
+    "Rating": "915",
+    "Wins": "48",
+    "Earnings": "$65,611.50"
+  },
+  {
+    "name": "Alexis Mandujano #62880",
+    "location": "San Antonio, Texas, United States",
+    "Member Since": "2014",
+    "Rating": "954",
+    "Wins": "18",
+    "Earnings": "$50,893.00"
+  },
+  {
+    "name": "Elizabete Peksena #202571",
+    "location": "Talsi, Latvia",
+    "Member Since": "2022",
+    "Rating": "922",
+    "Wins": "16",
+    "Earnings": "$4,383.00"
+  },
+  {
+    "name": "Marie Kielas #173601",
+    "location": "Kilingi-Nõmme, Pärnumaa, Estonia",
+    "Member Since": "2021",
+    "Rating": "918",
+    "Wins": "6",
+    "Earnings": "$4,864.00"
+  },
+  {
+    "name": "Ali Smith #147050",
+    "location": "Kansas City, Missouri, United States",
+    "Member Since": "2020",
+    "Rating": "945",
+    "Wins": "20",
+    "Earnings": "$40,352.00"
+  },
+  {
+    "name": "Macie Velediaz #104187",
+    "location": "Morristown, Tennessee, United States",
+    "Member Since": "2018",
+    "Rating": "965",
+    "Wins": "45",
+    "Earnings": "$58,994.00"
+  },
+  {
+    "name": "Alexis Kerman #142354",
+    "location": "Columbia, Missouri, United States",
+    "Member Since": "2020",
+    "Rating": "914",
+    "Wins": "40",
+    "Earnings": "$5,586.00"
+  },
+  {
+    "name": "Martje Sumowski #222973",
+    "location": "Münster, Germany",
+    "Member Since": "2022",
+    "Rating": "919",
+    "Wins": "19",
+    "Earnings": "$563.00"
+  },
+  {
+    "name": "Sofie Björlycke #35321",
+    "location": "Vänersborg, Sweden",
+    "Member Since": "2008",
+    "Rating": "933",
+    "Wins": "62",
+    "Earnings": "$32,201.08"
+  },
+  {
+    "name": "Matilda Ringbom #77385",
+    "location": "Tyresö, Sweden",
+    "Member Since": "2015",
+    "Rating": "927",
+    "Wins": "30",
+    "Earnings": "$11,581.00"
+  },
+  {
+    "name": "Kat Mertsch #99455",
+    "location": "Rose Bud, Arkansas, United States",
+    "Member Since": "2017",
+    "Rating": "975",
+    "Wins": "27",
+    "Earnings": "$146,703.00"
+  },
+  {
+    "name": "Kona Star Montgomery #27832",
+    "location": "Rancho Cucamonga, California, United States",
+    "Member Since": "2005",
+    "Rating": "941",
+    "Wins": "27",
+    "Earnings": "$61,018.50"
+  },
+  {
+    "name": "Deann Carey #66842",
+    "location": "Shelby, North Carolina, United States",
+    "Member Since": "2014",
+    "Rating": "939",
+    "Wins": "40",
+    "Earnings": "$68,459.00"
+  },
+  {
+    "name": "Lexi Marx #193215",
+    "location": "Peru, Illinois, United States",
+    "Member Since": "2021",
+    "Rating": "920",
+    "Wins": "35",
+    "Earnings": "$4,907.00"
+  },
+  {
+    "name": "Kaire Tekku #196237",
+    "location": "Tallinn / Harjumaa, Harjumaa, Estonia",
+    "Member Since": "2021",
+    "Rating": "922",
+    "Wins": "9",
+    "Earnings": "$7,232.00"
+  },
+  {
+    "name": "Jennifer Allen #15354",
+    "location": "Gilbert, Arizona, United States",
+    "Member Since": "1999",
+    "Rating": "964",
+    "Wins": "183",
+    "Earnings": "$154,940.95"
+  },
+  {
+    "name": "Sheliemae Lai #215439",
+    "location": "San Diego, California, United States",
+    "Member Since": "2022",
+    "Rating": "940",
+    "Wins": "38",
+    "Earnings": "$14,881.00"
+  },
+  {
+    "name": "Iida Lehtomäki #216558",
+    "location": "Petäjävesi, Finland",
+    "Member Since": "2022",
+    "Rating": "943",
+    "Wins": "21",
+    "Earnings": "$13,090.00"
+  },
+  {
+    "name": "Emily Weatherman #111487",
+    "location": "Abilene, Texas, United States",
+    "Member Since": "2018",
+    "Rating": "950",
+    "Wins": "45",
+    "Earnings": "$38,808.00"
+  },
+  {
+    "name": "Erika Stinchcomb #71262",
+    "location": "Missoula, Montana, United States",
+    "Member Since": "2015",
+    "Rating": "922",
+    "Wins": "6",
+    "Earnings": "$23,444.00"
+  },
+  {
+    "name": "Hanna Jansson #139387",
+    "location": "Hofors, Sweden",
+    "Member Since": "2020",
+    "Rating": "908",
+    "Wins": "17",
+    "Earnings": "$7,452.71"
+  },
+  {
+    "name": "Sofia Donnecke #185534",
+    "location": "Victoria, British Columbia, Canada",
+    "Member Since": "2021",
+    "Rating": "952",
+    "Wins": "11",
+    "Earnings": "$21,568.00"
+  },
+  {
+    "name": "Lauren Butler #65489",
+    "location": "Otsego, Minnesota, United States",
+    "Member Since": "2014",
+    "Rating": "929",
+    "Wins": "46",
+    "Earnings": "$21,161.50"
+  },
+  {
+    "name": "Kristýna Jurčíková #210972",
+    "location": "Nový Jičín, Czech Republic",
+    "Member Since": "2022",
+    "Rating": "942",
+    "Wins": "25",
+    "Earnings": "$3,929.00"
+  },
+  {
+    "name": "Ida Emilie Nesse #181772",
+    "location": "Espeland, Norway",
+    "Member Since": "2021",
+    "Rating": "943",
+    "Wins": "26",
+    "Earnings": "$9,493.00"
+  },
+  {
+    "name": "Rebecca Don #208576",
+    "location": "Westport, Ontario, Canada",
+    "Member Since": "2022",
+    "Rating": "949",
+    "Wins": "17",
+    "Earnings": "$6,908.00"
+  },
+  {
+    "name": "Natalie Ryan #114560",
+    "Member Since": "2018",
+    "Rating": "964",
+    "Wins": "30"
+  },
+  {
+    "name": "Sai Ananda #58303",
+    "location": "Spokane Valley, Washington, United States",
+    "Member Since": "2013",
+    "Rating": "944",
+    "Wins": "58",
+    "Earnings": "$39,236.50"
+  },
+  {
+    "name": "Nid Ovathanasin #157471",
+    "location": "Clearwater, Florida, United States",
+    "Member Since": "2021",
+    "Rating": "927",
+    "Wins": "63",
+    "Earnings": "$3,949.00"
+  },
+  {
+    "name": "Tinja Väisänen #70172",
+    "location": "Rauma, Finland",
+    "Member Since": "2014",
+    "Rating": "940",
+    "Wins": "9",
+    "Earnings": "$8,136.14"
+  },
+  {
+    "name": "Kristin Lätt #73986",
+    "location": "Pärnu, Estonia",
+    "Member Since": "2015",
+    "Rating": "998",
+    "Wins": "102",
+    "Earnings": "$411,576.40"
+  },
+  {
+    "name": "Chandler Reigh #277832",
+    "location": "Kingman, Arizona, United States",
+    "Member Since": "2024",
+    "Rating": "911",
+    "Wins": "11",
+    "Earnings": "$1,552.00"
+  },
+  {
+    "name": "Sarah Hokom #34563",
+    "location": "Caldwell, Idaho, United States",
+    "Member Since": "2008",
+    "Rating": "949",
+    "Wins": "110",
+    "Earnings": "$268,535.25"
+  },
+  {
+    "name": "Chantel Budinsky #130342",
+    "location": "Windsor, Ontario, Canada",
+    "Member Since": "2020",
+    "Rating": "945",
+    "Wins": "28",
+    "Earnings": "$27,332.00"
+  },
+  {
+    "name": "Heidi Laine #66599",
+    "location": "Hämeenlinna, Finland",
+    "Member Since": "2014",
+    "Rating": "960",
+    "Wins": "36",
+    "Earnings": "$67,842.26"
+  },
+  {
+    "name": "Jordan Lynds #176243",
+    "location": "Palm City, Florida, United States",
+    "Member Since": "2021",
+    "Rating": "944",
+    "Wins": "13",
+    "Earnings": "$13,958.00"
+  },
+  {
+    "name": "Emily Yale #144791",
+    "location": "Draper, Utah, United States",
+    "Member Since": "2020",
+    "Rating": "905",
+    "Wins": "23",
+    "Earnings": "$4,280.00"
+  },
+  {
+    "name": "Silva Saarinen #107335",
+    "location": "Oitti, Finland",
+    "Member Since": "2018",
+    "Rating": "983",
+    "Wins": "33",
+    "Earnings": "$111,297.00"
+  },
+  {
+    "name": "Katarina Staalesen Bjørkås #66898",
+    "location": "Oslo, Norway",
+    "Member Since": "2014",
+    "Rating": "908",
+    "Wins": "16",
+    "Earnings": "$11,161.27"
+  },
+  {
+    "name": "Hanna Huynh #112647",
+    "location": "Spokane, Washington, United States",
+    "Member Since": "2018",
+    "Rating": "959",
+    "Wins": "6",
+    "Earnings": "$41,285.00"
+  },
+  {
+    "name": "Emily Beach #61144",
+    "location": "Ninnekah, Oklahoma, United States",
+    "Member Since": "2013",
+    "Rating": "923",
+    "Wins": "64",
+    "Earnings": "$49,916.25"
+  },
+  {
+    "name": "Hannah Stefanovich #79777",
+    "location": "Tuscon, Arizona, United States",
+    "Member Since": "2015",
+    "Rating": "907",
+    "Wins": "25",
+    "Earnings": "$11,937.00"
+  },
+  {
+    "name": "Paige Shue #33833",
+    "location": "Augusta, Georgia, United States",
+    "Member Since": "2007",
+    "Rating": "941",
+    "Wins": "93",
+    "Earnings": "$71,791.00"
+  },
+  {
+    "name": "Madison Walker #59431",
+    "location": "Pensacola, Florida, United States",
+    "Member Since": "2013",
+    "Rating": "944",
+    "Wins": "23",
+    "Earnings": "$73,593.52"
+  },
+  {
+    "name": "Raven Klein #138272",
+    "location": "Burnsville, Minnesota, United States",
+    "Member Since": "2020",
+    "Rating": "947",
+    "Wins": "20",
+    "Earnings": "$30,928.00"
+  },
+  {
+    "name": "María Eldey Kristínardóttir #140660",
+    "location": "Reykjavík, Iceland",
+    "Member Since": "2020",
+    "Rating": "912",
+    "Wins": "24",
+    "Earnings": "$5,007.00"
+  },
+  {
+    "name": "Juliana Korver #7438",
+    "location": "Orange City, Iowa, United States",
+    "Member Since": "1993",
+    "Rating": "940",
+    "Wins": "276",
+    "Earnings": "$158,149.25"
+  },
+  {
+    "name": "Emilia Kallio #157245",
+    "location": "Pori, Finland",
+    "Member Since": "2021",
+    "Rating": "914",
+    "Wins": "7",
+    "Earnings": "$1,749.00"
+  },
+  {
+    "name": "Rachel Turton #144658",
+    "location": "St. Andrews, United Kingdom",
+    "Member Since": "2020",
+    "Rating": "954",
+    "Wins": "40",
+    "Earnings": "$31,476.00"
+  },
+  {
+    "name": "Ariel Walker #154098",
+    "location": "Charlotte, North Carolina, United States",
+    "Member Since": "2020",
+    "Rating": "927",
+    "Wins": "59",
+    "Earnings": "$6,233.00"
+  },
+  {
+    "name": "Holyn Handley #133547",
+    "location": "Grapevine, Texas, United States",
+    "Member Since": "2020",
+    "Rating": "991",
+    "Wins": "34",
+    "Earnings": "$217,904.00"
+  },
+  {
+    "name": "Sarah Gilpin #87338",
+    "location": "Solon, Iowa, United States",
+    "Member Since": "2016",
+    "Rating": "931",
+    "Wins": "13",
+    "Earnings": "$15,058.00"
+  },
+  {
+    "name": "Sintija Klezberga #229526",
+    "location": "Rīga, Latvia",
+    "Member Since": "2022",
+    "Rating": "896",
+    "Wins": "11",
+    "Earnings": "$3,409.00"
+  },
+  {
+    "name": "Rebecca Cox #32917",
+    "location": "Cincinnati, Ohio, United States",
+    "Member Since": "2007",
+    "Rating": "959",
+    "Wins": "42",
+    "Earnings": "$102,698.00"
+  },
+  {
+    "name": "Dani Kleidon #146137",
+    "location": "San Jose, California, United States",
+    "Member Since": "2020",
+    "Rating": "945",
+    "Wins": "15",
+    "Earnings": "$16,019.00"
+  },
+  {
+    "name": "Lisa Fajkus #32654",
+    "location": "Canyon Lake, Texas, United States",
+    "Member Since": "2007",
+    "Rating": "951",
+    "Wins": "72",
+    "Earnings": "$155,866.25"
+  },
+  {
+    "name": "Ella Hansen #144112",
+    "location": "Seattle, Washington, United States",
+    "Member Since": "2020",
+    "Rating": "970",
+    "Wins": "16",
+    "Earnings": "$144,165.00"
+  },
+  {
+    "name": "Katka Boďová #61990",
+    "location": "Bratislava, Slovakia",
+    "Member Since": "2013",
+    "Rating": "924",
+    "Wins": "100",
+    "Earnings": "$12,880.19"
+  },
+  {
+    "name": "Olivia Kindstedt #115503",
+    "location": "Porvoo, Finland",
+    "Member Since": "2018",
+    "Rating": "935",
+    "Wins": "37",
+    "Earnings": "$10,345.00"
+  },
+  {
+    "name": "Maria (Nina) Guerrero #140947",
+    "location": "Bowling Green, Kentucky, United States",
+    "Member Since": "2020",
+    "Rating": "933",
+    "Wins": "83",
+    "Earnings": "$16,088.00"
+  },
+  {
+    "name": "Kaidi Allsalu #84279",
+    "location": "Keila / Harjumaa, Estonia",
+    "Member Since": "2016",
+    "Rating": "942",
+    "Wins": "29",
+    "Earnings": "$25,723.59"
+  },
+  {
+    "name": "Stacie Kiefer #124963",
+    "location": "Valrico, Florida, United States",
+    "Member Since": "2019",
+    "Wins": "30",
+    "Earnings": "$25,495.00"
+  },
+  {
+    "name": "Valerie Mandujano #62879",
+    "location": "San Antonio, Texas, United States",
+    "Member Since": "2014",
+    "Rating": "969",
+    "Wins": "53",
+    "Earnings": "$127,038.00"
+  },
+  {
+    "name": "Julia Fors #224238",
+    "location": "Kungsbacka, Sweden",
+    "Member Since": "2022",
+    "Rating": "926",
+    "Wins": "21",
+    "Earnings": "$6,674.00"
+  },
+  {
+    "name": "Ellie Bryant #104814",
+    "location": "Pella, Iowa, United States",
+    "Member Since": "2018",
+    "Rating": "905",
+    "Wins": "38",
+    "Earnings": "$6,851.00"
+  },
+  {
+    "name": "Eveliina Salonen #64927",
+    "location": "Pirkkala, Finland",
+    "Member Since": "2014",
+    "Rating": "988",
+    "Wins": "58",
+    "Earnings": "$193,346.98"
+  },
+  {
+    "name": "Josefine Johansson #185057",
+    "location": "Gnosjö, Sweden",
+    "Member Since": "2021",
+    "Rating": "920",
+    "Wins": "10",
+    "Earnings": "$6,816.00"
+  },
+  {
+    "name": "Ratana Meekham #101949",
+    "location": "Louisville, Colorado, United States",
+    "Member Since": "2017",
+    "Rating": "898",
+    "Wins": "17",
+    "Earnings": "$4,124.00"
+  },
+  {
+    "name": "Ohn Scoggins #48976",
+    "location": "Los Angeles, California, United States",
+    "Member Since": "2011",
+    "Rating": "983",
+    "Wins": "106",
+    "Earnings": "$335,301.00"
+  },
+  {
+    "name": "Shelbi Dutton #107780",
+    "location": "Urbandale, Iowa, United States",
+    "Member Since": "2018",
+    "Rating": "924",
+    "Wins": "39",
+    "Earnings": "$9,557.00"
+  },
+  {
+    "name": "Jennifer Smiley #184736",
+    "location": "Ashburn, Virginia, United States",
+    "Member Since": "2021",
+    "Rating": "919",
+    "Wins": "44",
+    "Earnings": "$8,281.00"
+  },
+  {
+    "name": "Hailey King #81351",
+    "location": "Charlotte, North Carolina, United States",
+    "Member Since": "2016",
+    "Rating": "981",
+    "Wins": "28",
+    "Earnings": "$189,883.50"
+  },
+  {
+    "name": "Holly Finley #51277",
+    "location": "Denver, North Carolina, United States",
+    "Member Since": "2012",
+    "Rating": "937",
+    "Wins": "57",
+    "Earnings": "$103,560.61"
+  },
+  {
+    "name": "Anneli Tõugjas-Männiste #85484",
+    "location": "Otepää, Valgamaa, Estonia",
+    "Member Since": "2016",
+    "Rating": "951",
+    "Wins": "22",
+    "Earnings": "$25,902.26"
+  },
+  {
+    "name": "Morgan Lynds #176242",
+    "location": "Palm City, Florida, United States",
+    "Member Since": "2021",
+    "Rating": "940",
+    "Wins": "24",
+    "Earnings": "$17,775.00"
+  },
+  {
+    "name": "Emma Arp #135383",
+    "location": "Fairbury, Nebraska, United States",
+    "Member Since": "2020",
+    "Rating": "926",
+    "Wins": "76",
+    "Earnings": "$28,161.00"
+  },
+  {
+    "name": "Hannah Manis #130822",
+    "location": "Gatlinburg, Tennessee, United States",
+    "Member Since": "2020",
+    "Rating": "932",
+    "Wins": "12",
+    "Earnings": "$9,864.00"
+  },
+  {
+    "name": "Cadence Burge #79233",
+    "location": "Huntsville, Alabama, United States",
+    "Member Since": "2015",
+    "Rating": "970",
+    "Wins": "81",
+    "Earnings": "$49,010.00"
+  },
+  {
+    "name": "Eliezra Midtlyng #198446",
+    "location": "Oceanport, New Jersey, United States",
+    "Member Since": "2021",
+    "Rating": "945",
+    "Wins": "13",
+    "Earnings": "$23,013.00"
+  }
+]
