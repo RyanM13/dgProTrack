@@ -1,15 +1,15 @@
 {
-  "name": "dgprotrack",
+  "name": "dgProTrack",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
+  "author": "Ryan Mathews",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^37.2.6"
+    "electron": "23.1.3"
   }
 }
