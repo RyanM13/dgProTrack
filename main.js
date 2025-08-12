@@ -1,31 +1,32 @@
+// main.js
+const { app, BrowserWindow, ipcMain } = require("electron");
 const fs = require("fs");
-const { app, BrowserWindow } = require("electron"); // ✅ include app
 const path = require("path");
 
-// Read and parse the JSON files
 const fpoData = JSON.parse(
   fs.readFileSync(path.join(__dirname, "fpo.json"), "utf8"),
 );
-
 const mpoData = JSON.parse(
   fs.readFileSync(path.join(__dirname, "mpo.json"), "utf8"),
 );
-
-console.log(fpoData);
 
 function createWindow() {
   const win = new BrowserWindow({
     width: 800,
     height: 600,
     webPreferences: {
-      preload: path.join(__dirname, "renderer.js"), // ✅ this runs in preload
+      preload: path.join(__dirname, "render.js"), // Preload script
     },
   });
 
-  win.loadFile("index.html");
+  win.loadFile("src/index.html");
+
+  // When the renderer asks for data, send it back
+  ipcMain.handle("get-player-data", () => {
+    return { fpo: fpoData, mpo: mpoData };
+  });
 }
 
-// Electron app lifecycle
 app.whenReady().then(() => {
   createWindow();
 
