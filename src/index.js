@@ -13,7 +13,7 @@ window.addEventListener("DOMContentLoaded", () => {
         <div class="top-section">
           <div class="border"></div>
           <div class="icons">
-            <div class="logo" style="background-image: url('${player.image || ""}'); background-size: cover;"></div>
+            <div class="image" style="background-image: url('${player.image || ""}'); background-size: cover;"></div>
           </div>
         </div>
         <div class="bottom-section">

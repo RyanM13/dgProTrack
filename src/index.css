@@ -9,6 +9,13 @@
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
   transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
+
+.image {
+  width: 230px;
+  height: 150px;
+  border-radius: 15px;
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -30,76 +37,6 @@
     rgb(80, 246, 255) 100%
   );
   position: relative;
-}
-
-.card .top-section .border {
-  border-bottom-right-radius: 10px;
-  height: 30px;
-  width: 130px;
-  background: white;
-  background: #1b233d;
-  position: relative;
-  transform: skew(-40deg);
-  box-shadow: -10px -10px 0 0 #1b233d;
-}
-
-.card .top-section .border::before {
-  content: "";
-  position: absolute;
-  width: 15px;
-  height: 15px;
-  top: 0;
-  right: -15px;
-  background: rgba(255, 255, 255, 0);
-  border-top-left-radius: 10px;
-  box-shadow: -5px -5px 0 2px #1b233d;
-}
-
-.card .top-section::before {
-  content: "";
-  position: absolute;
-  top: 30px;
-  left: 0;
-  background: rgba(255, 255, 255, 0);
-  height: 15px;
-  width: 15px;
-  border-top-left-radius: 15px;
-  box-shadow: -5px -5px 0 2px #1b233d;
-}
-
-.card .top-section .icons {
-  position: absolute;
-  top: 0;
-  width: 100%;
-  height: 30px;
-  display: flex;
-  justify-content: space-between;
-}
-
-.card .top-section .icons .logo {
-  height: 100%;
-  aspect-ratio: 1;
-  padding: 7px 0 7px 15px;
-}
-
-.card .top-section .icons .logo .top-section {
-  height: 100%;
-}
-
-.card .top-section .icons .social-media {
-  height: 100%;
-  padding: 8px 15px;
-  display: flex;
-  gap: 7px;
-}
-
-.card .top-section .icons .social-media .svg {
-  height: 100%;
-  fill: #1b233d;
-}
-
-.card .top-section .icons .social-media .svg:hover {
-  fill: white;
 }
 
 .card .bottom-section {
