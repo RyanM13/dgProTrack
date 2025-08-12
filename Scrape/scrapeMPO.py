@@ -16,6 +16,12 @@ for index, file in enumerate(files.iterdir()):
         mpo[index]["name"] = player_content.text
         player_info = soup.find("ul", class_="player-info info-list")
         location = player_info.find("li", class_="location")
+        image = soup.find("div", class_="views-field views-field-colorbox")
+        if image:
+            img = image.find("img")
+            src = img.get("src")
+            mpo[index]["image"] = src
+            print(src)
         if location:
             mpo[index]["location"] = location.find("a").text
 

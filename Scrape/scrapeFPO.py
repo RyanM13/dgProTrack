@@ -1,4 +1,5 @@
 import json
+import os
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -14,6 +15,12 @@ for index, file in enumerate(files.iterdir()):
         player_content = soup.find("h1", class_="title")
         fpo[index]["name"] = player_content.text
         player_info = soup.find("ul", class_="player-info info-list")
+        image = soup.find("div", class_="views-field views-field-colorbox")
+        if image:
+            img = image.find("img")
+            src = img.get("src")
+            fpo[index]["image"] = src
+            print(src)
         location = player_info.find("li", class_="location")
         if location:
             fpo[index]["location"] = location.find("a").text
